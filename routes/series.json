@@ -1,0 +1,322 @@
+[
+	{
+		"id": "1",
+		"name": "Scream Queens",
+		"genre": "horror",
+		"seasons": "2",
+		"year": "2015",
+		"original_broadcaster": "FOX"
+	},
+	{
+		"id": "2",
+		"name": "Glee",
+		"genre": "comedy, musical",
+		"seasons": "6",
+		"year": "2009",
+		"original_broadcaster": "FOX"
+	},
+	{
+		"id": "3",
+		"name": "the vampire diaries",
+		"genre": "mystery",
+		"seasons": "6",
+		"year": "2009",
+		"original_broadcaster": "The CW Television Network"
+	},
+	{
+		"id": "4",
+		"name": "the original",
+		"genre": "mystery",
+		"seasons": "5",
+		"year": "2013",
+		"original_broadcaster": "The CW Television Network"
+	},
+	{
+		"id": "5",
+		"name": "supernatural",
+		"genre": "mystery",
+		"seasons": "15",
+		"year": "2005",
+		"original_broadcaster": "The CW Television Network, The WB"
+	},
+	{
+		"id": "6",
+		"name": "Pretty Little Liars",
+		"genre": "drama",
+		"seasons": "7",
+		"year": "2010",
+		"original_broadcaster": "freeform"
+	},
+	{
+		"id": "7",
+		"name": "Euphoria",
+		"genre": "drama",
+		"seasons": "2",
+		"year": "2019",
+		"original_broadcaster": "HBO"
+	},
+	{
+		"id": "8",
+		"name": "Legacies",
+		"genre": "drama",
+		"seasons": "4",
+		"year": "2018",
+		"original_broadcaster": "HBO"
+	},
+	{
+		"id": "9",
+		"name": "The Nevers",
+		"genre": "Science fiction",
+		"seasons": "1",
+		"year": "2021",
+		"original_broadcaster": "HBO"
+	},
+	{
+		"id": "10",
+		"name": "Raised By Wolves",
+		"genre": "Science fiction",
+		"seasons": "2",
+		"year": "2020",
+		"original_broadcaster": "HBO"
+	},
+	{
+		"id": "11",
+		"name": "Tell Me a Story",
+		"genre": "Suspense",
+		"seasons": "2",
+		"year": "2018",
+		"original_broadcaster": "Amazon"
+	},
+	{
+		"id": "12",
+		"name": "The Magicians",
+		"genre": "Suspense",
+		"seasons": "2",
+		"year": "2015",
+		"original_broadcaster": "Amazon"
+	},
+	{
+		"id": "13",
+		"name": "Paradise City",
+		"genre": "drama",
+		"seasons": "1",
+		"year": "2021",
+		"original_broadcaster": "Amazon"
+	},
+	{
+		"id": "14",
+		"name": "Riverdale",
+		"genre": "drama",
+		"seasons": "6",
+		"year": "2017",
+		"original_broadcaster": "Netflix"
+	},
+	{
+		"id": "15",
+		"name": "All of Us Are Dead",
+		"genre": "drama",
+		"seasons": "1",
+		"year": "2022",
+		"original_broadcaster": "Netflix"
+	},
+	{
+		"id": "16",
+		"name": "toy Boy",
+		"genre": "drama",
+		"seasons": "2",
+		"year": "2019",
+		"original_broadcaster": "Netflix"
+	},
+	{
+		"id": "17",
+		"name": "The Witcher",
+		"genre": "fantasy",
+		"seasons": "2",
+		"year": "2019",
+		"original_broadcaster": "Netflix"
+	},
+	{
+		"id": "18",
+		"name": "The Flash",
+		"genre": "Science fiction",
+		"seasons": "8",
+		"year": "2014",
+		"original_broadcaster": "The CW Television Network"
+	},
+	{
+		"id": "19",
+		"name": "All American",
+		"genre": "sports",
+		"seasons": "4",
+		"year": "2018",
+		"original_broadcaster": "The CW Television Network"
+	},
+	{
+		"id": "20",
+		"name": "Naomi",
+		"genre": "drama",
+		"seasons": "1",
+		"year": "2022",
+		"original_broadcaster": "The CW Television Network"
+	},
+	{
+		"id": "21",
+		"name": "4400",
+		"genre": "mistery",
+		"seasons": "1",
+		"year": "2022",
+		"original_broadcaster": "The CW Television Network"
+	},
+	{
+		"id": "22",
+		"name": "Smallville",
+		"genre": "action",
+		"seasons": "10",
+		"year": "2001",
+		"original_broadcaster": "The WB"
+	},
+	{
+		"id": "23",
+		"name": "Buffy the Vampire Slayer",
+		"genre": "drama",
+		"seasons": "7",
+		"year": "1997",
+		"original_broadcaster": "The WB"
+	},
+	{
+		"id": "24",
+		"name": "Dawson's Creek",
+		"genre": "drama",
+		"seasons": "6",
+		"year": "1998",
+		"original_broadcaster": "The WB"
+	},
+	{
+		"id": "25",
+		"name": "Sabrina, the Teenage Witch ",
+		"genre": "sticom",
+		"seasons": "7",
+		"year": "1996",
+		"original_broadcaster": "The WB"
+	},
+	{
+		"id": "26",
+		"name": "Supergirl ",
+		"genre": "science fiction",
+		"seasons": "6",
+		"year": "2015",
+		"original_broadcaster": "warner "
+	},
+	{
+		"id": "27",
+		"name": "Arrow ",
+		"genre": "science fiction",
+		"seasons": "8",
+		"year": "2012",
+		"original_broadcaster": "warner "
+	},
+	{
+		"id": "28",
+		"name": "Gilmore Girls",
+		"genre": "drama",
+		"seasons": "7",
+		"year": "2000",
+		"original_broadcaster": "warner "
+	},
+	{
+		"id": "29",
+		"name": "Gotham",
+		"genre": "action",
+		"seasons": "5",
+		"year": "2014",
+		"original_broadcaster": "warner "
+	},
+	{
+		"id": "30",
+		"name": "Grey's Anatomy",
+		"genre": "drama",
+		"seasons": "18",
+		"year": "2005",
+		"original_broadcaster": "American Broadcasting Company"
+	},
+	{
+		"id": "31",
+		"name": "The Bachelor",
+		"genre": "Reality ",
+		"seasons": "26",
+		"year": "2002",
+		"original_broadcaster": "American Broadcasting Company"
+	},
+	{
+		"id": "32",
+		"name": "The View",
+		"genre": "Talk show",
+		"seasons": "25",
+		"year": "1997",
+		"original_broadcaster": "American Broadcasting Company"
+	},
+	{
+		"id": "33",
+		"name": "Promised Land",
+		"genre": "drama",
+		"seasons": "1",
+		"year": "2022",
+		"original_broadcaster": "American Broadcasting Company"
+	},
+	{
+		"id": "34",
+		"name": "Queens ",
+		"genre": "musical",
+		"seasons": "1",
+		"year": "2021",
+		"original_broadcaster": "American Broadcasting Company"
+	},
+	{
+		"id": "35",
+		"name": "Big Sky",
+		"genre": "criminal",
+		"seasons": "2",
+		"year": "2020",
+		"original_broadcaster": "American Broadcasting Company"
+	},
+	{
+		"id": "36",
+		"name": "Good Morning America",
+		"genre": "Talk show",
+		"seasons": "44",
+		"year": "1975",
+		"original_broadcaster": "American Broadcasting Company"
+	},
+	{
+		"id": "37",
+		"name": "The Good Doctor",
+		"genre": "Drama",
+		"seasons": "4",
+		"year": "2017",
+		"original_broadcaster": "American Broadcasting Company"
+	},
+	{
+		"id": "38",
+		"name": "Abbott Elementary",
+		"genre": "Pseudodocumentary",
+		"seasons": "1",
+		"year": "2021",
+		"original_broadcaster": "American Broadcasting Company"
+	},
+	{
+		"id": "39",
+		"name": "Dancing with the Stars",
+		"genre": "Reality ",
+		"seasons": "30",
+		"year": "2005",
+		"original_broadcaster": "American Broadcasting Company"
+	},
+	{
+		"id": "40",
+		"name": "The Rookie",
+		"genre": "criminal",
+		"seasons": "4",
+		"year": "2018",
+		"original_broadcaster": "American Broadcasting Company"
+	}
+]
