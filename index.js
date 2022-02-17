@@ -4,7 +4,7 @@ const bodyParse = require('body-parser')
 const serieRoute = require('./routes/serieRoute')
 
 const app = express()
-const port = 3000
+const port = process.env.PORT || 3000
 
 app.use(bodyParse.urlencoded( {extended: false}))
 
