@@ -1,3 +1,6 @@
+>###  Demonstration
+<img src="https://github.com/Guimonteirol/api-series/blob/master/public/gif/api-series_Trim%20(2).gif" />
+
 > ### Tools
 > 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -7,3 +10,4 @@
 
 > ### Deploy on Heroku 
 <a href="https://api-series.herokuapp.com/series">Series API</a>
+
